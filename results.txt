@@ -15,3 +15,4 @@ infinity d square lattice: infinity? it looks like it's rising after every demen
 
 Attempt for a function to find the steps in an x demension square lattice:??
 probably has to have an asymptote at 1, but cross/touch the x axis at 0
+(x/(x-1))(102.21x-194.63) works for so far, but It's probably not it
