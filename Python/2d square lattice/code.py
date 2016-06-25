@@ -27,3 +27,5 @@ for i in range(0, 1000):
 			avr += i
 	nomove=False;
 print (avr)
+#It prints stuff from 60-80.  What the hell.  Is the java random better? Is the python random better? Is there something wrong with my code?
+#I don't know, someone fork this code, please
