@@ -1,7 +1,10 @@
+NOTE: The results shown are from the java scripts.  I remade the "2d square lattice" script in python and I got very different results
+This notice is deleted once sorted out
+
 -1d suare(whaa) lattice: if any philosopher wants to edit this, that's fine by me
 0d square(ehh) lattice: 0 (You can't move at all.  You start off not being able to move)
 1d square(?) lattice: infinity (once a walk goes one way, it cannot go back or be in a position in front of itself causing a termination)
-2d square lattice: ~19.58
+2d square lattice: ~19.58 from java ~71 from python
 3d square lattice: ~168
 4d square lattice:  ?
 5d square lattice:  ??
